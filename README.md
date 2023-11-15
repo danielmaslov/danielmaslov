@@ -26,6 +26,9 @@ A more detailed overview of your project. Explain the purpose, goals, and any im
 ## Installation
 
 Provide instructions on how to install and set up your project. Include any dependencies or prerequisites.
+# My Repository
+
+Welcome to my repository! Here's a link to [HW1.md](./HW1.md) for easy access to the homework.
 
 ```bash
 # Example installation steps
